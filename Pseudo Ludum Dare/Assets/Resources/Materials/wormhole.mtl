@@ -1,0 +1,11 @@
+# Blender MTL File: 'wormhole.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns -0.000015
+Ka 0.000000 0.000000 0.000000
+Kd 0.004664 0.002940 0.024506
+Ks 0.016557 0.451503 0.760417
+Ni 1.000000
+d 1.000000
+illum 2
