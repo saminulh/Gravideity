@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6811b594dc950504ab2124b7300c5cdf
+timeCreated: 1435765884
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startUI: {fileID: 165864, guid: e9c123974d8a3e449abd5e14bbb91cc4, type: 2}
+  - pausedUI: {fileID: 115378, guid: de4566eee1f793648b54c70ecbfe280d, type: 2}
+  - victoryUI: {fileID: 143412, guid: 721aa364dc3c0b146a0bd87ff98a55f3, type: 2}
+  - defeatUI: {fileID: 187144, guid: d460ddedccce86648895730da8f1bee0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
